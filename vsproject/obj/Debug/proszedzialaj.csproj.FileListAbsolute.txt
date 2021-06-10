@@ -1,0 +1,10 @@
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.csprojAssemblyReference.cache
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.Properties.Resources.resources
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.csproj.GenerateResource.cache
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.Form1.resources
+C:\Users\GamingPC\source\repos\proszedzialaj\bin\Debug\proszedzialaj.exe.config
+C:\Users\GamingPC\source\repos\proszedzialaj\bin\Debug\proszedzialaj.exe
+C:\Users\GamingPC\source\repos\proszedzialaj\bin\Debug\proszedzialaj.pdb
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.exe
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.pdb
+C:\Users\GamingPC\source\repos\proszedzialaj\obj\Debug\proszedzialaj.csproj.CoreCompileInputs.cache
